@@ -14,10 +14,6 @@
 # limitations under the License.
 #
 
-# Don't forget to sign your builds:
-# https://gist.github.com/A2L5E0X1/54cb1b3a49030a9ebf8608b4e68073f5
-include vendor/lineage-priv/keys/keys.mk
-
 #
 # This file sets variables that control the way modules are built
 # thorughout the system. It should not be used to conditionally
